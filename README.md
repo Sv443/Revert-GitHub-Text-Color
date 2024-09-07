@@ -6,7 +6,7 @@ Only works with dark mode enabled!
 
 <br>
 
-![banner showing the difference in text color](./github%20text%20color%20banner.png)
+![banner showing the difference in text color](./github%20text%20color%20banner%20slim.png)
 
 </div>
 

@@ -1,0 +1,13 @@
+/* ==UserStyle==
+@name           Revert GitHub text color (dark mode only)
+@description    Reverts the GitHub text color to be a bit darker to reduce contrast
+@namespace      https://github.com/Sv443/Revert-GitHub-Text-Color
+@version        1.0.0
+@author         Sv443
+@license        MIT
+==/UserStyle== */
+
+:root body {
+    --fgColor-default: #e6edf3;
+    --color-fg-default: #e6edf3;
+}

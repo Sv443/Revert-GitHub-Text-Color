@@ -1,6 +1,14 @@
+<div style="text-align:center;" align="center">
+
 ## Revert GitHub Text Color
 Reverts the GitHub text colors to be a little bit darker like they were before, to reduce contrast.  
 Only works with dark mode enabled!  
+
+<br>
+
+![banner showing the difference in text color](./github%20text%20color%20banner.png)
+
+</div>
 
 <br><br>
 

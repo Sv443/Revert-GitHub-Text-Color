@@ -7,7 +7,9 @@
 @license        MIT
 ==/UserStyle== */
 
-:root body {
-    --fgColor-default: #e6edf3;
-    --color-fg-default: #e6edf3;
+@-moz-document domain("github.com") {
+    :root body {
+        --fgColor-default: #e6edf3;
+        --color-fg-default: #e6edf3;
+    }
 }

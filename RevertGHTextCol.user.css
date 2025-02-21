@@ -2,14 +2,24 @@
 @name           Revert GitHub text color (dark mode only)
 @description    Reverts the GitHub text color to be a bit darker to reduce contrast
 @namespace      https://github.com/Sv443/Revert-GitHub-Text-Color
-@version        1.0.0
+@version        1.1.0
 @author         Sv443
 @license        MIT
+@var            text text-color "Text color (e.g. #e6edf3)" #e6edf3
+@preprocessor   stylus
 ==/UserStyle== */
+
+/*
+Changelog:
+- 1.1.0:
+  - Allow specifying a different text color via @var directive
+- 1.0.0:
+  - Reverted text color to #e6edf3
+*/
 
 @-moz-document domain("github.com") {
     :root body {
-        --fgColor-default: #e6edf3;
-        --color-fg-default: #e6edf3;
+        --fgColor-default: text-color;
+        --color-fg-default: text-color;
     }
 }

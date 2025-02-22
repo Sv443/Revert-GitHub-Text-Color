@@ -3,6 +3,7 @@
 ## Revert GitHub Text Color
 Reverts the GitHub text colors to be a little bit darker like they were before, to reduce contrast.  
 Only works with dark mode enabled!  
+[Also available on userstyles.world](https://userstyles.world/style/18018/revert-github-text-color)  
 
 <br>
 

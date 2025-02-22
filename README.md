@@ -7,9 +7,19 @@ Only works with dark mode enabled!
 <br>
 
 ![banner showing the difference in text color](./github%20text%20color%20banner%20v2.png)
-
 </div>
+
+<br>
 
 ### Installation:
 1. Install a userstyle browser extension like Stylus ([Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/), [Chrome](https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne))
 2. [Click here to install the userstyle](https://github.com/Sv443/Revert-GitHub-Text-Color/raw/main/RevertGHTextCol.user.css)
+
+<br><br>
+
+<div style="text-align: center;" align="center">
+
+Made with :heart: by Sv443 - please consider [supporting the development](https://github.com/sponsors/Sv443)  
+Licensed under the [MIT license](./LICENSE.txt)
+
+</div>
